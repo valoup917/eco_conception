@@ -1,8 +1,6 @@
 <h1 align="center"> ♻️ Eco Conception 💻 </h1> <br>
 <p align="center">
-  <a href="https://gitpoint.co/">
     <img alt="mockup" title="mockup" src="./src/assets/readme/mockuper.png" width="450">
-  </a>
 </p>
 
 <p align="center">
